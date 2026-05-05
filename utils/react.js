@@ -37,3 +37,5 @@ export default async function react(client, message){
      react: { remove: true,
      key: message.key }
   })
+
+}
